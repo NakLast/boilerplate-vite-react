@@ -39,9 +39,15 @@ importers:
       globals:
         specifier: ^15.15.0
         version: 15.15.0
+<<<<<<< HEAD
       husky:
         specifier: ^9.1.7
         version: 9.1.7
+=======
+      prettier:
+        specifier: ^3.6.2
+        version: 3.6.2
+>>>>>>> ede02874e2100d54e2e11bfeedc870454a7065b5
       typescript:
         specifier: ~5.7.2
         version: 5.7.3
@@ -715,11 +721,14 @@ packages:
     resolution: {integrity: sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==}
     engines: {node: '>=8'}
 
+<<<<<<< HEAD
   husky@9.1.7:
     resolution: {integrity: sha512-5gs5ytaNjBrh5Ow3zrvdUUY+0VxIuWVL4i9irt6friV+BqdCfmV11CQTWMiBYWHbXhco+J1kHfTOUkePhCDvMA==}
     engines: {node: '>=18'}
     hasBin: true
 
+=======
+>>>>>>> ede02874e2100d54e2e11bfeedc870454a7065b5
   ignore@5.3.2:
     resolution: {integrity: sha512-hsBTNUqQTDwkWtcdYI2i06Y/nUBEsNEDJKjWdigLvegy8kDuJAS8uRlpkkcQpyEXL0Z/pjDy5HBmMjRCJ2gq+g==}
     engines: {node: '>= 4'}
@@ -831,6 +840,14 @@ packages:
     resolution: {integrity: sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==}
     engines: {node: '>= 0.8.0'}
 
+<<<<<<< HEAD
+=======
+  prettier@3.6.2:
+    resolution: {integrity: sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==}
+    engines: {node: '>=14'}
+    hasBin: true
+
+>>>>>>> ede02874e2100d54e2e11bfeedc870454a7065b5
   punycode@2.3.1:
     resolution: {integrity: sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==}
     engines: {node: '>=6'}
@@ -1537,8 +1554,11 @@ snapshots:
 
   has-flag@4.0.0: {}
 
+<<<<<<< HEAD
   husky@9.1.7: {}
 
+=======
+>>>>>>> ede02874e2100d54e2e11bfeedc870454a7065b5
   ignore@5.3.2: {}
 
   ignore@7.0.5: {}
@@ -1634,6 +1654,11 @@ snapshots:
 
   prelude-ls@1.2.1: {}
 
+<<<<<<< HEAD
+=======
+  prettier@3.6.2: {}
+
+>>>>>>> ede02874e2100d54e2e11bfeedc870454a7065b5
   punycode@2.3.1: {}
 
   react-dom@19.2.0(react@19.2.0):
